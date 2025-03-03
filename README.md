@@ -1,4 +1,4 @@
-# Thomas Rife's Blog App
+# React Reflections
 
 ## Introduction
 
